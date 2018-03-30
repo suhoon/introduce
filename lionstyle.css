@@ -1,0 +1,114 @@
+@import url(//fonts.googleapis.com/earlyaccess/notosansogham.css);
+
+
+ a:link { 
+ 	color: black; text-decoration: none;
+ }
+ a:visited {
+ 	color: black; text-decoration: none;
+}
+ a:hover { 
+ 	color: black; text-decoration: underline;
+ }
+
+.container1{
+	width:960px;
+	margin: 0 auto;
+}
+
+.container1 form{
+	width:960px;
+}
+
+
+
+nav h1{
+	display:inline;
+	width:100%;
+	height:70px;
+	font-family: 'Noto Sans Ogham', sans-serif;
+
+}
+
+nav a{
+	float:right;
+	margin-top: 14px;
+	margin-right: 7px;
+	font-family: 'Noto Sans Ogham', sans-serif;
+	font-size:15px;
+
+}
+
+
+header{
+	width:100%;
+	height:600px;
+	display:block;
+	background-image: url("header.jpg");
+	background-repeat:no-repeat;
+	background-size: cover;
+	font-family: 'Noto Sans Ogham', sans-serif;
+}
+
+header form input{
+	text-align: center;
+
+}
+
+
+header h2{
+	text-align: center;
+	font-size:60px;
+	margin: 5px;
+	font-family: 'Noto Sans Ogham', sans-serif;
+	color:white;
+}
+
+header p{
+	padding:100px;
+	text-align: center;
+	font-size:18px;
+	margin:5px;
+	font-family: 'Noto Sans Ogham', sans-serif;
+	color:white;
+}
+
+section{
+	width:100%;
+	padding:20px;
+	text-align: center;
+	font-family: 'Noto Sans Ogham', sans-serif;
+
+}
+
+.col-md4 img{
+	width:310px;
+	height:310px;
+
+}
+
+
+section article p{
+	margin:15px;
+	font-size:15px;
+	text-align:center;
+}
+
+footer{
+	width:100%;
+	padding:10px;
+	background-image: url("footerimg.jpg");
+	font-family: 'Noto Sans Ogham', sans-serif;
+}
+
+footer p{
+	font-size:15px;
+	padding-top:10px;
+	text-align: center;
+	color:white;
+}
+
+
+	
+
+
